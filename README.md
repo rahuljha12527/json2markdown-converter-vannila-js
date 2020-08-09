@@ -7,42 +7,42 @@
 
 ### JSON-Data:
 
-const data = [
+const data = [ <br>
+  { <br>
+    name: "Frozen yoghurt", <br>
+    calories: "159", <br>
+    fat: "6", <br>
+    carbs: "24", <br>
+    protein: "4", <br>
+  }, <br>
+  { <br>
+    name: "Ice cream sandwich", <br>
+    calories: "237", <br>
+    fat: "9", <br>
+    carbs: "37", <br>
+    protein: "4", <br>
+  }, <br>
+  { <br>
+    name: "Eclair", <br>
+    calories: "262", <br>
+    fat: "16", <br>
+    carbs: "24", <br>
+    protein: "6", <br>
+  }, <br>
+  { <br>
+    name: "Cupcake", <br>
+    calories: " 305", <br>
+    fat: " 3", <br>
+    carbs: "67", <br>
+    protein: "4", <br>
+  }, <br>
   {
-    name: "Frozen yoghurt",
-    calories: "159",
-    fat: "6",
-    carbs: "24",
-    protein: "4",
-  },
-  {
-    name: "Ice cream sandwich",
-    calories: "237",
-    fat: "9",
-    carbs: "37",
-    protein: "4",
-  },
-  {
-    name: "Eclair",
-    calories: "262",
-    fat: "16",
-    carbs: "24",
-    protein: "6",
-  },
-  {
-    name: "Cupcake",
-    calories: " 305",
-    fat: " 3",
-    carbs: "67",
-    protein: "4",
-  },
-  {
-    name: "Gingerbread",
-    calories: "356",
-    fat: "16",
-    carbs: "49",
-    protein: "3",
-  },
+    name: "Gingerbread", <br>
+    calories: "356", <br>
+    fat: "16", <br> 
+    carbs: "49", <br>
+    protein: "3", <br>
+  }, <br>
 ];
 
 
